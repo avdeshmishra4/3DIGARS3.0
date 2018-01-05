@@ -1,0 +1,5 @@
+../Features/1BBHA/1BBHA.pssm
+../Features/1BBHA/1BBHA.monogram
+../Features/1BBHA/1BBHA.bigram
+SEQUENCE LENGTH: 99
+Sequence Length: 99

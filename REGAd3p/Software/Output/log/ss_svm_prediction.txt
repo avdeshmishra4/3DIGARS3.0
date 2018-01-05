@@ -1,0 +1,2 @@
+1BBHA
+SVM PREDICT Command: /home/presentation/Courses/CSCI_6635_Research/Lecture/Set_5_SVM/LibSVM/libsvm-3.17/libsvm-3.17/svm-predict -b 1 ../Features/1BBHA/1BBHA.svm.ss.scale ../Models/SS_SVM/SSD_TR1001.libsvm.scale.model ../Features/1BBHA/1BBHA.svm.ss.predict >> ../Output/log/log_1BBHA_svm_prediction
